@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/notificationForMac.iml" filepath="$PROJECT_DIR$/.idea/notificationForMac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dndc.iml" filepath="$PROJECT_DIR$/.idea/dndc.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package notificationForMac
+package dndc
 
 import (
 	"os/exec"

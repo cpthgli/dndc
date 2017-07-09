@@ -11,7 +11,7 @@
       <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
     </SOURCES>
     <excluded>
-      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../dndc" />
     </excluded>
   </library>
 </component>
